@@ -10,7 +10,7 @@ status = "online" #online/dnd/idle
 
 GUILD_ID = 995304320402718802
 CHANNEL_ID = 1002226691487305809
-SELF_MUTE = True
+SELF_MUTE = False
 SELF_DEAF = False
 
 usertoken = os.getenv("TOKEN")
